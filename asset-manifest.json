@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/abra/static/css/main.bc61212a.css",
+    "main.js": "/abra/static/js/main.7d5fa06b.js",
+    "static/js/787.9b25c9ff.chunk.js": "/abra/static/js/787.9b25c9ff.chunk.js",
+    "static/media/logoabra.png": "/abra/static/media/logoabra.f2bd7b4231c487b6475e.png",
+    "static/media/test1.png": "/abra/static/media/test1.0303ac77f45a52538e12.png",
+    "index.html": "/abra/index.html",
+    "main.bc61212a.css.map": "/abra/static/css/main.bc61212a.css.map",
+    "main.7d5fa06b.js.map": "/abra/static/js/main.7d5fa06b.js.map",
+    "787.9b25c9ff.chunk.js.map": "/abra/static/js/787.9b25c9ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc61212a.css",
+    "static/js/main.7d5fa06b.js"
+  ]
+}
